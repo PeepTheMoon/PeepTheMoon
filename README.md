@@ -2,7 +2,7 @@
 
 I'm Rachel, a software engineer with a sophomoric sense of humor who loves to play great songs terribly on the ukulele.  
 
-I love to learn and believe *EVERYTHING* is interesting if you're talking to the right person. Due to my insatiable curiosity, I now have a large mental database of strange animal facts, like:
+I love to learn and believe *everything* is interesting if you're talking to the right person. Due to my insatiable curiosity, I now have a large mental database of strange animal facts, like:
 * Lobsters that pee from their faces 
 * Caterpillars who save their outgrown heads and wear them like hats 
 * Moles who store troves of paralyzed worms in underground dens
