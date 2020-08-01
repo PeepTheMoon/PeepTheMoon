@@ -4,7 +4,7 @@
 
 I'm Rachel, a software engineer who loves to play great songs terribly on the ukulele.  
 
-I love to learn and believe *everything* is interesting. Due to my insatiable curiosity, I have a large mental database of strange animal facts, sych as: 
+I love to learn and believe *everything* is interesting. Due to my insatiable curiosity, I have a large mental database of strange animal facts like these: 
 * There's a caterpillar who saves its outgrown heads and wears them like hats :bug:
 * Some toads hatch babies from holes in their backs :frog:
 
