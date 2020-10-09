@@ -1,3 +1,5 @@
+![popy](file:///Users/rachelscomputer/Desktop/In%20Good%20Health/Resume/Profile%20Photos/Poppy%20header.jpeg)
+
 **Hello!** :sparkles:
 
 I'm Rachel, a software engineer who plays great songs terribly on the ukulele.  
