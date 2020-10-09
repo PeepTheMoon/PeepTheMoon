@@ -1,5 +1,3 @@
-
-
 **Hello!** :sparkles:
 
 I'm Rachel, a software engineer who plays great songs terribly on the ukulele.  
