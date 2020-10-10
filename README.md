@@ -1,4 +1,4 @@
-![poppy](file:///Users/rachelscomputer/Desktop/In%20Good%20Health/Resume/Profile%20Photos/Poppy%20header.jpeg)
+![poppy](assets/Poppy header.jpeg)
 
 **Hello!** :sparkles:
 
