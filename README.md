@@ -1,6 +1,6 @@
 ![poppy](https://github.com/PeepTheMoon/PeepTheMoon/blob/master/assets/Poppy-header.jpeg?raw=true)
 
-**Hello!** :sparkles: 
+**Hello!**  :sparkles: 
 
 I'm Rachel, a software engineer who plays great songs terribly on the ukulele.  
 
@@ -10,4 +10,4 @@ When I'm not coding, I create art.  You can check out some of my work [here](htt
 
 
 
-![moonparrot](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/moonparrot.gif)
+![moonparrot](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/moonparrot.gif). :sparkles:
