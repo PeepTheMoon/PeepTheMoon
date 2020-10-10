@@ -1,4 +1,4 @@
-![poppy](assets/Poppy header.jpeg)
+![poppy](../assets/Poppy header.jpeg)
 
 **Hello!** :sparkles:
 
