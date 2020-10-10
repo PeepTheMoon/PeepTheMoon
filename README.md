@@ -1,4 +1,4 @@
-![poppy](../assets/Poppy-header.jpeg)
+![poppy](https://github.com/PeepTheMoon/PeepTheMoon/blob/master/assets/Poppy-header.jpeg?raw=true)
 
 **Hello!** :sparkles:
 
